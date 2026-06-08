@@ -42,7 +42,7 @@ const Dashboard = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 relative bg-white font-pinar">
 
-                <div className=" grid-rows-2 shadow rounded-xl"><img src="./images/Top.svg" alt="" />
+                <div className=" grid-rows-2 shadow rounded-xl"><img src="/images/Top.svg" alt="" />
                     <div className=' bg-red-300'></div>
                     <div className='grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 mx-3 sm:mx-6 -mt-7'>
 
@@ -160,7 +160,7 @@ const Dashboard = () => {
                  
                     <img
                         className='absolute bottom-0 left-0 w-full h-20 md:h-auto object-cover'
-                        src="../images/Vector 11.svg"
+                        src="/images/Vector 11.svg"
                         alt=""
                         data-aos="fade-up"
                     />
